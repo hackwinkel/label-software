@@ -45,8 +45,6 @@ git clone https://github.com/free-pdk/pdk-includes
 
 git clone https://github.com/free-pdk/easy-pdk-includes
 
-git clone https://github.com/free-pdk/pdk-includes
-
 git clone https://github.com/hackwinkel/label-software
 
 cd label-software
